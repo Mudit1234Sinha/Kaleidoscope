@@ -1,2 +1,3 @@
 # Kaleidoscope
-This is a very basic automated kaleidoscope shape. 
+
+Using Turtle library of Python i have made this shape which automates itself to form a Kaleidoscope like structure
